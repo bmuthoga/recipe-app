@@ -1,6 +1,14 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Recipe App
+This is a simple React application that displays recipes in card layout form
+
+A deployed version of the app and online code editor to play around with the codebase can be found [here](https://codesandbox.io/s/github/bmuthoga/recipe-app)
+
+Below is a preview of how it looks:
+
+<img src="https://i.ibb.co/1vDW7Bn/recipe-app.gif" width="300" height="200" alt="recipe-app" />
 
 ## Available Scripts
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 In the project directory, you can run:
 
